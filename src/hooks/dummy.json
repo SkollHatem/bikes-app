@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "name": "Bicicleta Eléctrica 1",
+    "rate": 1
+  },
+  {
+    "id": 2,
+    "name": "Bicicleta Normal 1",
+    "rate": 3
+  },
+  {
+    "id": 3,
+    "name": "Bicicleta Antigua 1",
+    "rate": 5
+  },
+  {
+    "id": 4,
+    "name": "Bicicleta Eléctrica 2",
+    "rate": 1
+  },
+  {
+    "id": 5,
+    "name": "Bicicleta Normal 2",
+    "rate": 3
+  },
+  {
+    "id": 6,
+    "name": "Bicicleta Antigua 2",
+    "rate": 5
+  },
+  {
+    "id": 7,
+    "name": "Bicicleta Eléctrica 3",
+    "rate": 1
+  },
+  {
+    "id": 8,
+    "name": "Bicicleta Normal 3",
+    "rate": 3
+  },
+  {
+    "id": 9,
+    "name": "Bicicleta Antigua 3",
+    "rate": 5
+  }
+]
